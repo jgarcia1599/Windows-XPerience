@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.windowsxperiencejunioradhamjuhee.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Alternate Realities\\Desktop\\VRSpring2019\\Windows XPerience Final\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Windows XPerience (Junior,Adham,Juhee) [Testing]"
+        }
+      }
+    }
+  ]
+}
